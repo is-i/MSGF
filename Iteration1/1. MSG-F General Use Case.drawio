@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="V70XzxwYPjBldjow5GUX">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="usyCq1JQEKNZ3wErooyo-1" parent="1" style="whiteSpace=wrap;html=1;align=right;verticalAlign=top;" value="MSGF System&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="520" width="395" x="225" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-10" edge="1" parent="1" source="usyCq1JQEKNZ3wErooyo-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="usyCq1JQEKNZ3wErooyo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="MSG Staff" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="343" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;flipH=1;legacyAnchorPoints=0;" value="Estimate Funds&amp;nbsp;&lt;div&gt;Available for Week&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;flipH=1;legacyAnchorPoints=0;" value="Manage an Investment" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;flipH=1;legacyAnchorPoints=0;" value="Manage a Mortgage" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="328" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;flipH=1;legacyAnchorPoints=0;" value="Update &lt;br&gt;Estimated Annual Operating Expenses" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="421" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;flipH=1;legacyAnchorPoints=0;" value="Produce a Report" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-11" edge="1" parent="1" source="usyCq1JQEKNZ3wErooyo-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="usyCq1JQEKNZ3wErooyo-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="347" as="sourcePoint" />
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-12" edge="1" parent="1" source="usyCq1JQEKNZ3wErooyo-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="usyCq1JQEKNZ3wErooyo-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="474" as="sourcePoint" />
+            <mxPoint x="410" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-13" edge="1" parent="1" source="usyCq1JQEKNZ3wErooyo-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="usyCq1JQEKNZ3wErooyo-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="sourcePoint" />
+            <mxPoint x="380" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-14" edge="1" parent="1" source="usyCq1JQEKNZ3wErooyo-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="usyCq1JQEKNZ3wErooyo-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="447" as="sourcePoint" />
+            <mxPoint x="330" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-16" edge="1" parent="1" source="usyCq1JQEKNZ3wErooyo-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="usyCq1JQEKNZ3wErooyo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usyCq1JQEKNZ3wErooyo-15" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Borrower" vertex="1">
+          <mxGeometry height="66" width="30" x="720" y="341" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
