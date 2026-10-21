@@ -1,6 +1,6 @@
 <mxfile host="Electron" pages="3">
   <diagram name="With beca-crédito" id="EPOL6Tdj7JyYep6uLVx8">
-    <mxGraphModel dx="798" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K0YqehOQgkbmEXhI-sFu-0" />
         <mxCell id="K0YqehOQgkbmEXhI-sFu-1" parent="K0YqehOQgkbmEXhI-sFu-0" />
@@ -59,16 +59,16 @@
           <mxGeometry height="26" width="230" y="120" as="geometry" />
         </mxCell>
         <mxCell id="K0YqehOQgkbmEXhI-sFu-16" parent="K0YqehOQgkbmEXhI-sFu-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="MSG App" vertex="1">
-          <mxGeometry height="174" width="300" x="165" y="30" as="geometry" />
+          <mxGeometry height="194" width="300" x="165" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="K0YqehOQgkbmEXhI-sFu-17" parent="K0YqehOQgkbmEXhI-sFu-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;estimatedAnnualOperatingExpenses&lt;/div&gt;&lt;div&gt;dateEstimatedAnnualOperatingExpensesUpdated&lt;/div&gt;&lt;div&gt;availableFundsForWeek&lt;/div&gt;&lt;div&gt;expectedAnnualReturnOnInvestments&lt;/div&gt;&lt;div&gt;dateExpectedAnnualReturnOnInvestmentsUpdated&lt;/div&gt;&lt;div&gt;expectedGrantsForWeek&lt;/div&gt;&lt;div&gt;expectedMortgagePaymentsForWeek&lt;/div&gt;" vertex="1">
-          <mxGeometry height="114" width="300" y="26" as="geometry" />
+        <mxCell id="K0YqehOQgkbmEXhI-sFu-17" parent="K0YqehOQgkbmEXhI-sFu-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;estimatedAnnualOperatingExpenses&lt;/div&gt;&lt;div&gt;dateEstimatedAnnualOperatingExpensesUpdated&lt;/div&gt;&lt;div&gt;availableFundsForWeek&lt;/div&gt;&lt;div&gt;expectedAnnualReturnOnInvestments&lt;/div&gt;&lt;div&gt;dateExpectedAnnualReturnOnInvestmentsUpdated&lt;/div&gt;&lt;div&gt;expectedGrantsForWeek&lt;/div&gt;&lt;div&gt;expectedMortgagePaymentsForWeek&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(93, 177, 99), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;availableFundsForScholarships&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="134" width="300" y="26" as="geometry" />
         </mxCell>
         <mxCell id="K0YqehOQgkbmEXhI-sFu-18" parent="K0YqehOQgkbmEXhI-sFu-16" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
-          <mxGeometry height="8" width="300" y="140" as="geometry" />
+          <mxGeometry height="8" width="300" y="160" as="geometry" />
         </mxCell>
         <mxCell id="K0YqehOQgkbmEXhI-sFu-19" parent="K0YqehOQgkbmEXhI-sFu-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
-          <mxGeometry height="26" width="300" y="148" as="geometry" />
+          <mxGeometry height="26" width="300" y="168" as="geometry" />
         </mxCell>
         <mxCell id="K0YqehOQgkbmEXhI-sFu-20" parent="K0YqehOQgkbmEXhI-sFu-1" style="text;whiteSpace=wrap;" value="inheritance" vertex="1">
           <mxGeometry height="40" width="90" x="10" y="10" as="geometry" />
@@ -84,17 +84,20 @@
             <mxPoint x="630" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D6rStMecxqdVkTY0pjvz-1" parent="K0YqehOQgkbmEXhI-sFu-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Forgivable Scholarship Loan" vertex="1">
-          <mxGeometry height="195" width="230" x="741" y="442" as="geometry" />
+        <mxCell id="D6rStMecxqdVkTY0pjvz-1" parent="K0YqehOQgkbmEXhI-sFu-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Forgivable Scholarship Loan" vertex="1">
+          <mxGeometry height="190" width="230" x="741" y="442" as="geometry" />
         </mxCell>
-        <mxCell id="D6rStMecxqdVkTY0pjvz-2" parent="D6rStMecxqdVkTY0pjvz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nameOfstudent&lt;br&gt;#ofGrantedSemesters&lt;div&gt;initialTuitionValue&lt;br&gt;&lt;div&gt;awardDate&lt;/div&gt;&lt;div&gt;lastDisbursement&lt;br&gt;dateLastDisbursement&lt;/div&gt;&lt;/div&gt;&lt;div&gt;lastSemesterGPA&lt;br&gt;lastSemesterCovered&lt;/div&gt;" vertex="1">
-          <mxGeometry height="135" width="230" y="26" as="geometry" />
+        <mxCell id="D6rStMecxqdVkTY0pjvz-2" parent="D6rStMecxqdVkTY0pjvz-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nameOfstudent&lt;br&gt;#ofGrantedSemesters&lt;div&gt;initialTuitionValue&lt;br&gt;&lt;div&gt;awardDate&lt;/div&gt;&lt;div&gt;lastDisbursement&lt;br&gt;dateLastDisbursement&lt;/div&gt;&lt;/div&gt;&lt;div&gt;lastSemesterGPA&lt;br&gt;lastSemesterCovered&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124" width="230" y="26" as="geometry" />
         </mxCell>
-        <mxCell id="D6rStMecxqdVkTY0pjvz-3" parent="D6rStMecxqdVkTY0pjvz-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
-          <mxGeometry height="8" width="230" y="161" as="geometry" />
+        <mxCell id="D6rStMecxqdVkTY0pjvz-3" parent="D6rStMecxqdVkTY0pjvz-1" style="line;strokeWidth=1;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="8" width="230" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="D6rStMecxqdVkTY0pjvz-4" parent="D6rStMecxqdVkTY0pjvz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
-          <mxGeometry height="26" width="230" y="169" as="geometry" />
+        <mxCell id="D6rStMecxqdVkTY0pjvz-4" parent="D6rStMecxqdVkTY0pjvz-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="32" width="230" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="kUixmwlQwAOyQgX73PbA-0" parent="K0YqehOQgkbmEXhI-sFu-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Change&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Podemos incluir en la clase MSG App el valor de los fondos disponibles para becas escolares. Se incrementará cada año al recibir el aporte y se disminuirá cada vez que se otorga una beca.&amp;nbsp;&lt;br&gt;&lt;br&gt;Para gestionar las becas diseñamos la clase &quot;Forgivable Scholarship Loan&quot; con la información sobre una beca.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="815" x="165" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
